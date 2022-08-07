@@ -1,0 +1,14 @@
+DEBUG:root:
+        Function : methodA
+        Execution Time : 0:00:00.000027
+        Address : methodA
+        Memory : 136 Bytes
+        Date : 2022-08-08 01:01:36.067790
+        
+DEBUG:root:
+        Function : methodA
+        Execution Time : 0:00:00.000022
+        Address : methodA
+        Memory : 136 Bytes
+        Date : 2022-08-08 01:10:25.237647
+        
