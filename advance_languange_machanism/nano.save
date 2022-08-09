@@ -1,0 +1,7 @@
+class Person:
+	def __init__(self, _name):
+		self._name = name
+def main():
+	p = Person("Aditya)
+	print("Person.__dict__:"P.__dict__)
+main()
